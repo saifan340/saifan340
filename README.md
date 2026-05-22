@@ -44,11 +44,8 @@ I enjoy building practical tools — from AI-powered apps to CLI utilities — a
 | Project | Description | Stack |
 |---|---|---|
 | [Budget Tracker](https://github.com/saifan340/budget-tracker) | Full-stack personal finance app | React · Flask · SQLite |
-| | Atelier AI *(coming soon)* | AI-powered handbag design generator | React · Anthropic API |
 | [MovieDatabase CLI](https://github.com/saifan340/MovieDatabase_CLI) | Command-line movie search tool | Python |
 | [Text to SQL](https://github.com/saifan340/Text_to_SQL) | Natural language to SQL query converter | Python |
-| [Snowman Meltdown](https://github.com/saifan340/Snowman-Meltdown) | Word-guessing game with highscores | Python · Flask · SQLite |
-
 ---
 
 ## 📫 Let's connect
